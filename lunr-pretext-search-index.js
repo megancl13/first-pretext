@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Week 2",
-  "body": " Week 2  I am confused.  "
+  "body": " Week 2  Not trying to be funny. Not trying to make anyone have the worst day on their job.... But do any of these fuckers ever....  "
 },
 {
   "id": "Activity-magic-beans",
