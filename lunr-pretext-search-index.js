@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Week 1",
-  "body": " Week 1  This week we covered the following topics:  "
+  "body": " Week 1  This activity will teach you how to find yourself a bitch wife.  "
 },
 {
   "id": "notes-week-02",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Week 2",
-  "body": " Week 2  This week we covered the following topics in the second week.  "
+  "body": " Week 2  This activity will teach you how to hate your bitch wife. (it is Siddarth)  "
 },
 {
   "id": "Activity-magic-beans",
