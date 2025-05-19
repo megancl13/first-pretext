@@ -13,10 +13,14 @@
 
   <paragraphs xml:id="sec-grading">
     <title>Grading</title>
-    <p>Everyone gets an F except for me. </p>
+    <p>
+      Everyone gets an F except for me.
+    </p>
 
-    <p>So this is a new paragraph? Will this end up pushing correctly? I think there is a lot of syntax I am not doing correctly. Maybe I am not doing the best at this.</p>
-    
+    <p>
+      So this is a new paragraph? Will this end up pushing correctly? I think there is a lot of syntax I am not doing correctly. Maybe I am not doing the best at this.
+    </p>
+
   </paragraphs>
 
 </chapter>
