@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Syllabus</title>
+
+    <p> Megan is writing a syllabus. </p>
+
+
+  <paragraphs>
+    <title>Course Information</title>
+    <p> I am doing the best at this. You probably love your mother-in-law. </p>
+  </paragraphs>
+
+  <paragraphs xml:id="sec-grading">
+    <title>Grading</title>
+    <p>Everyone gets an F except for me. </p>
+  </paragraphs>
+
+</chapter>
