@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Week 1",
-  "body": " Week 1  Why is this not changing on the website???  "
+  "body": " Week 1  I made all my money from the Charlie Brown Balloon.  I'm not used to being rich. It's just this amount of money that gets smaller until I die.  "
 },
 {
   "id": "notes-week-02",
