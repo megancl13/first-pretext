@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "1",
   "title": "Course Syllabus",
-  "body": " Course Syllabus  Megan is writing a syllabus.   Course Information  I am doing the best at this. You probably love your mother-in-law.    Grading  Everyone gets an F except for me.   "
+  "body": " Course Syllabus  Megan is writing a syllabus.   Course Information  I am doing the best at this. You probably love your mother-in-law.    Grading  Everyone gets an F except for me.  So this is a new paragraph? Will this end up pushing correctly?   "
 },
 {
   "id": "notes-week-01",
@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Week 1",
-  "body": " Week 1  This activity will teach you how to find yourself a bitch wife.  "
+  "body": " Week 1  Why is this not changing on the website???  "
 },
 {
   "id": "notes-week-02",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Week 2",
-  "body": " Week 2  This activity will teach you how to hate your bitch wife. (it is Siddarth)  "
+  "body": " Week 2  I am confused.  "
 },
 {
   "id": "Activity-magic-beans",
