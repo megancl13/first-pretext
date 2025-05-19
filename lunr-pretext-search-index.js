@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "1",
   "title": "Course Syllabus",
-  "body": " Course Syllabus  Megan is writing a syllabus.   Course Information  I am doing the best at this. You probably love your mother-in-law.    Grading  Everyone gets an F except for me.  So this is a new paragraph? Will this end up pushing correctly?   "
+  "body": " Course Syllabus  Megan is writing a syllabus.   Course Information  I am doing the best at this. You probably love your mother-in-law.    Grading  Everyone gets an F except for me.  So this is a new paragraph? Will this end up pushing correctly? I think there is a lot of syntax I am not doing correctly. Maybe I am not doing the best at this.   "
 },
 {
   "id": "notes-week-01",
